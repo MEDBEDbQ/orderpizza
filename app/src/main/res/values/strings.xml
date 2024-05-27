@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">order pizza</string>
+    <string name="pizza_1">Маргарита</string>
+    <string name="pizza_2">Неаполитанская</string>
+    <string name="pizza_3">Маринара</string>
+    <string name="supplement_1">Сыр</string>
+    <string name="supplement_2">Колбаса</string>
+    <string name="supplement_3">Рыба</string>
+    <string name="supplement_4">Грибы</string>
+    <string name="small">Маленькая 30 см</string>
+    <string name="normal">Средняя 60 см</string>
+    <string name="big">Большая 100 см</string>
+    <string name="error_1">Выберите питцу</string>
+    <string name="error_2">Выберите размер</string>
+    <string name="error_name">Введите ваше имя</string>
+    <string name="error_phone">Введите ваш номер телефона</string>
+
+</resources>
