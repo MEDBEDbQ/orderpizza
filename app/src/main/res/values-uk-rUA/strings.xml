@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Замовити піцу</string>
+    <string name="pizza_1">Маргарита</string>
+    <string name="pizza_2">Неаполітанська</string>
+    <string name="pizza_3">Марінара</string>
+    <string name="supplement_1">Сир</string>
+    <string name="supplement_2">Ковбаса</string>
+    <string name="supplement_3">Риба</string>
+    <string name="supplement_4">Гриби</string>
+    <string name="small">Маленька 30 см</string>
+    <string name="normal">Середня 60 см</string>
+    <string name="big">Велика 100 см</string>
+    <string name="error_1">Виберіть піцу</string>
+    <string name="error_2">Виберіть розмір</string>
+    <string name="error_name">Введіть своє ім`я</string>
+    <string name="error_phone">Введіть свій номер телефону</string>
+    <string name="total_price">Ціна замовлення: </string>
+    <string name="order">Замовити</string>
+    <string name="name">Ім`я</string>
+    <string name="phone">Телефон</string>
+    <string name="your_order">Ваше замовлення:</string>
+    <string name="supplements">Добавки:</string>
+    <string name="size">Размір:</string>
+    <string name="next">Далі</string>
+    <string name="menu">Меню:</string>
+
+</resources>

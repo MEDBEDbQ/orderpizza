@@ -1,18 +1,27 @@
 <resources>
     <string name="app_name">order pizza</string>
-    <string name="pizza_1">Маргарита</string>
-    <string name="pizza_2">Неаполитанская</string>
-    <string name="pizza_3">Маринара</string>
-    <string name="supplement_1">Сыр</string>
-    <string name="supplement_2">Колбаса</string>
-    <string name="supplement_3">Рыба</string>
-    <string name="supplement_4">Грибы</string>
-    <string name="small">Маленькая 30 см</string>
-    <string name="normal">Средняя 60 см</string>
-    <string name="big">Большая 100 см</string>
-    <string name="error_1">Выберите питцу</string>
-    <string name="error_2">Выберите размер</string>
-    <string name="error_name">Введите ваше имя</string>
-    <string name="error_phone">Введите ваш номер телефона</string>
+    <string name="pizza_1">Margaret</string>
+    <string name="pizza_2">Neapolitan</string>
+    <string name="pizza_3">Marinara</string>
+    <string name="supplement_1">Cheese</string>
+    <string name="supplement_2">Sausage</string>
+    <string name="supplement_3">Fish</string>
+    <string name="supplement_4">Mushrooms</string>
+    <string name="small">Small 30 sm</string>
+    <string name="normal">Normal 60 sm</string>
+    <string name="big">Big 100 sm</string>
+    <string name="error_1">Choose a pizza</string>
+    <string name="error_2">Choose a size</string>
+    <string name="error_name">Enter your name</string>
+    <string name="error_phone">Enter your phone number</string>
+    <string name="total_price">Price of the order: </string>
+    <string name="order">Order</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone number</string>
+    <string name="your_order">Your order:</string>
+    <string name="supplements">Supplements:</string>
+    <string name="size">Size:</string>
+    <string name="next">Next</string>
+    <string name="menu">Menu:</string>
 
 </resources>

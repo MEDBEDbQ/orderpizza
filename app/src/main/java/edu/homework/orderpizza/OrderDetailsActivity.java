@@ -6,6 +6,7 @@ import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import edu.homework.orderpizza.entity.Pizza;
@@ -68,6 +69,12 @@ public class OrderDetailsActivity extends AppCompatActivity {
             intent.putExtra(Pizza.class.getSimpleName(), pizza);
             startActivity(intent);
         });
+    }
+
+    @Override
+    protected void onSaveInstanceState(@NonNull Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putSerializable(Pizza.class.getSimpleName(), pizza);
     }
 
     public void setPizzaSize(PizzaSize pizzaSize) {

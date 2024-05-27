@@ -25,7 +25,7 @@ public class YourOrderActivity extends AppCompatActivity {
                     size = MainActivity.getAppContext().getString(R.string.small);
                     break;
                 case normal:
-                    size = MainActivity.getAppContext().getString(R.string.big);
+                    size = MainActivity.getAppContext().getString(R.string.normal);
                     break;
                 case big:
                     size = MainActivity.getAppContext().getString(R.string.big);
